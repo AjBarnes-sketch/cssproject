@@ -23,6 +23,10 @@ hr {
   border-width: 1px;
   height: 2px;
 }
+
+.bottom-line {
+  margin-top: 25px;
+}
 /*for the heading*/
 h1, h2 {
   font-family: Impact, serif;
