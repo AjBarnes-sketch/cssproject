@@ -55,10 +55,14 @@ h1, h2 {
 a {
   color: black;
 }
-a:visited { color: grey; }
+a:visited {
+  color: black;
+}
+
 a:hover {
   color: brown;
 }
+
 a:active {
-  color:white;
+  color: brown;
 }
