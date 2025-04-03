@@ -19,6 +19,8 @@ hr {
   height: 3px;
   background-color: brown;
   border-color: brown;
+  border-width: 1px;
+  height: 2px;
 }
 /*for the heading*/
 h1, h2 {
